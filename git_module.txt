@@ -1,0 +1,18 @@
+Module about Git and GitHub
+
+- Install Git Bash and practice basic git commands
+
+- Create a folder and initialize git using "git init"
+
+- Create a repository on GitHub
+
+- Connect remote repo to local repo using "git remote origin https://github.com/USERNAME/REPONAME.git"
+
+- Create files in local repo
+
+- Add files to queue on local repo using "git add ."
+
+- Commit the created/updated content using "git commit -m 'message'"
+
+- Send local files to remote using "git push origin main"
+
